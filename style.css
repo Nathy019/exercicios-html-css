@@ -1,0 +1,9 @@
+div{
+    display: flex;
+}
+img{
+    max-width: 200%;
+    display: block;
+}
+.titulo{
+}
